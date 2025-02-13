@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ### 3. Repository Structure 📂
 ```bash
 automatic-art-classification/
-├── data/                    # Dataset (not included in the repo)
+├── data/                    # Dataset 
 ├── src/                     # Source code
 │   ├── feature_extraction.py
 │   ├── tsne_umap.py
