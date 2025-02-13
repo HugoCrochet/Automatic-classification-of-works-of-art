@@ -52,5 +52,5 @@ The dataset consists of **3,060 paintings** from **100 artists**, spanning a wid
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/automatic-art-classification.git
+git clone https://github.com/HugoCrochet/automatic-art-classification.git
 cd automatic-art-classification
