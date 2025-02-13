@@ -75,5 +75,6 @@ automatic-art-classification/
 ├── results/                 # Visualizations and clustering outputs
 ├── requirements.txt         # Python dependencies
 ├── report.pdf               # Project report (PDF)
+├── taxonomy.pdf             # All the considered painters and their styles (PDF)
 └── README.md                # This file
 ```
