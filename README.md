@@ -50,7 +50,27 @@ The dataset consists of **3,060 paintings** from **100 artists**, spanning a wid
 
 ---
 
-### Clone the Repository
+## 🚀 How to Use This Repository
+
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/HugoCrochet/automatic-art-classification.git
 cd automatic-art-classification
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+
+### 3. Repository Structure 📂
+```bash
+automatic-art-classification/
+├── data/                    # Dataset (not included in the repo)
+├── src/                     # Source code
+│   ├── feature_extraction.py
+│   ├── tsne_umap.py
+│   ├── clustering.py
+│   └── utils.py
+├── results/                 # Visualizations and clustering outputs
+├── requirements.txt         # Python dependencies
+├── report.pdf               # Project report (PDF)
+└── README.md                # This file
