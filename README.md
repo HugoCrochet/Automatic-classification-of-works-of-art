@@ -56,10 +56,12 @@ The dataset consists of **3,060 paintings** from **100 artists**, spanning a wid
 ```bash
 git clone https://github.com/HugoCrochet/automatic-art-classification.git
 cd automatic-art-classification
+```
 
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Repository Structure 📂
 ```bash
@@ -74,3 +76,4 @@ automatic-art-classification/
 ├── requirements.txt         # Python dependencies
 ├── report.pdf               # Project report (PDF)
 └── README.md                # This file
+```
