@@ -52,6 +52,9 @@ The dataset consists of **3,060 paintings** from **100 artists**, spanning a wid
 
 ## 🚀 How to Use This Repository
 
+Note that the database is not available, but all the paintings can be downloaded from https://www.wikiart.org/
+You can open the xlsx file to see all the paintings I used, grouped by artist.
+
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/HugoCrochet/automatic-art-classification.git
@@ -67,12 +70,8 @@ pip install -r requirements.txt
 ```bash
 automatic-art-classification/
 ├── data/                    # Dataset 
-├── src/                     # Source code
-│   ├── feature_extraction.py
-│   ├── tsne_umap.py
-│   ├── clustering.py
-│   └── utils.py
-├── results/                 # Visualizations and clustering outputs
+├── notebook.ipynb           # main notebook
+├── feature_extraction.ipynb # notebook with manual features extraction
 ├── requirements.txt         # Python dependencies
 ├── report.pdf               # Project report (PDF)
 ├── taxonomy.pdf             # All the considered painters and their styles (PDF)
