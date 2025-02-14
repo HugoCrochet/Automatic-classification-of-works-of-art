@@ -69,7 +69,8 @@ pip install -r requirements.txt
 ### 3. Repository Structure 📂
 ```bash
 automatic-art-classification/
-├── data/                    # Dataset 
+├── data/                    # Dataset (not available on git)
+├── paintings.xslx           # all the paintings grouped by artists
 ├── notebook.ipynb           # main notebook
 ├── feature_extraction.ipynb # notebook with manual features extraction
 ├── requirements.txt         # Python dependencies
