@@ -8,6 +8,13 @@ This project focuses on the **automatic classification of artworks** using state
 
 The dataset consists of **3,060 paintings** from **100 artists**, spanning a wide range of artistic movements from the 1400s to the present day. The project aims to provide insights into the stylistic relationships between artworks and assist art historians, curators, and enthusiasts in understanding art history.
 
+Here is a clustering we obtained :
+![Screenshot from 2025-02-27 14-53-03](https://github.com/user-attachments/assets/6dc40b78-518e-4521-93e2-95a087c96614)
+
+With "Hollow in the snow" as an input, the model was able to give us similar paintings, that belonged to the same art movement (Impressionism) :
+![Screenshot from 2025-02-27 14-53-20](https://github.com/user-attachments/assets/6eb8b6f8-b35f-42fc-9ef5-123301c140cf)
+
+
 ---
 
 ## 🛠️ Methodology
